@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+  .menu-container {
+    color: white; /*white boarded box*/
+    background-color: blue;  /* Blue */
+    padding: 20px 0;
+  }
