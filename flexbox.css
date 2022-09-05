@@ -52,3 +52,9 @@
     width: 900px;
     justify-content: flex-start;
   }
+
+  .photo-grid-item {
+    border: 1px solid #fff;
+    width: 300px;
+    height: 300px;
+  }
